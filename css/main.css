@@ -1,0 +1,26 @@
+
+input{
+
+    margin-top: 10px;
+    
+}
+div{
+
+margin-top: 10px;
+
+}
+@media(max-width:600px){
+
+input{
+
+    width: 50%;
+    margin-top: 10px;
+    background-color: aqua;
+}
+div{
+
+    width: 50%;
+    
+    }
+
+}
